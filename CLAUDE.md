@@ -7,6 +7,7 @@ python -m ruff check src/ tests/ --fix
 python -m ruff format src/ tests/
 
 # Typecheck (only done for src/)
+
 python -m mypy src/
 
 # Run all tests
