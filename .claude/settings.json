@@ -9,6 +9,7 @@
 
       
       "Bash(python -m pytest tests/)",
+      
       "Bash(python -m pytest tests/*)"
     ],
     "deny": []
