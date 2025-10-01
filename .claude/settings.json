@@ -4,6 +4,7 @@
       "Bash(python -m ruff check src/ tests/ --fix)",
       
       "Bash(python -m ruff format src/ tests/)",
+      
       "Bash(python -m mypy src/)",
 
       
